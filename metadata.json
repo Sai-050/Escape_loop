@@ -1,0 +1,5 @@
+{
+  "name": "Escape Loop",
+  "description": "An infinite-level, AI-powered quiz game where you must solve coding and logic puzzles to survive the loop.",
+  "requestFramePermissions": []
+}
