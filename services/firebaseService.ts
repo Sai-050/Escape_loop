@@ -4,7 +4,7 @@ import { GameStats } from "../types";
 
 // Your web app's Firebase configuration
 const firebaseConfig = {
-  apiKey: "AIzaSyBVfrvtdzx35xeF3-3ZWm8hiUOV7OJSBj4",
+  apiKey: "",
   authDomain: "escape-loop-3e499.firebaseapp.com",
   projectId: "escape-loop-3e499",
   storageBucket: "escape-loop-3e499.firebasestorage.app",
