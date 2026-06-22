@@ -6,7 +6,7 @@ Escape Loop is an AI-powered quiz game where players solve coding and logic ques
 
 - Infinite levels with increasing difficulty
 - AI-generated coding and logic questions
-- Categories like Debugging, DSA, Big O, Tech Trivia, and Cybersecurity
+- Categories like Debugging, DSA, Big O, Tech Trivia.
 - Score tracking and level progression
 - Firebase-based data storage
 - Retro hacker terminal UI
